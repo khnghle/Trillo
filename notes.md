@@ -26,3 +26,8 @@ flex is a shorthand property
   flex-grow (grow)  
   flex-shrink (shrink)  
   flex-basis (base width)  
+
+# Icon font vs SVG
+icon fonts fail alot, bad for screen reader 
+SVG are better (scalable vector graphics)
+Icomoon.io  (icomoon.io free!)
